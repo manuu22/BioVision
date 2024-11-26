@@ -1,6 +1,6 @@
 # BioVision
 
-Trabajo para la asignatura de Visión por computador para el master de automatica y robotica
+Trabajo para la asignatura de Visión por Computador para el Máster de Automática y Robotica
 
 ![lettering](https://github.com/user-attachments/assets/aa7167bc-5ca3-4446-b23c-7b19841ced94)
 
