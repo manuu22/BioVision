@@ -1,6 +1,7 @@
 # BioVision
 
-Trabajo para la asignatura de Visión por Computador para el Máster de Automática y Robotica
+Trabajo para la asignatura de Visión por Computador para el Máster de Automática y Robotica.
+
 El programa GUI.py es un simulador de recogida de botellas de plástico. Permite la detección de botellas desde la cámara y desde la galería. 
 Por cada botella recogida se calculará la cantidad en gramos de plástico reciclado.
 
