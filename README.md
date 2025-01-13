@@ -18,7 +18,7 @@ pip install opencv-python ultralytics
 ```
 2️⃣ **Run the simulator:**  
 ```bash
-python plastic_bottle_detector.py
+python GUI3.0.py
 ```
 
 ---
@@ -39,11 +39,6 @@ Choose between two detection modes:
 
 ![imagen_reducida](https://github.com/user-attachments/assets/db191391-91af-440b-aa59-fabbc06a2e56)
 
-
-To start live detection, run:  
-```bash
-python plastic_bottle_detector.py --live
-```
 
 ---
 
