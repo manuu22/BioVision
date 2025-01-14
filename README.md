@@ -47,7 +47,3 @@ Every plastic bottle detected is **added to your recycling score**, allowing you
 
 🌱 **Challenge yourself to collect as much plastic as possible and make a difference!**  
 
----
-
-### 💡 Contribute & Support  
-If you encounter any issues or have suggestions for improvement, feel free to **open an issue** or contribute to the project! 🚀  
