@@ -190,7 +190,7 @@ class GarbageCollectorSim:
         self.bottle_counter = 0
         
         # YOLO model path
-        self.model = YOLO("yolo_models/epoch150.pt")
+        self.model = YOLO("yolo_models/final.pt")
         
         # Confidence thresholds
         self.image_confidence_threshold = 0.4
