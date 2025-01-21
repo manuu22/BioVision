@@ -21,7 +21,7 @@ pip install pygame
 ```
 2️⃣ **Run the simulator:**  
 ```bash
-python GUI3.0.py
+python app.py
 ```
 
 ---
