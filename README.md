@@ -16,6 +16,9 @@ Ensure you have **Python 3.8 or later** installed and added to the system path.
 ```bash
 pip install opencv-python ultralytics
 ```
+```bash
+pip install pygame
+```
 2️⃣ **Run the simulator:**  
 ```bash
 python GUI3.0.py
