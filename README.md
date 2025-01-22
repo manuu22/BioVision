@@ -10,6 +10,14 @@ We’ve developed an **interactive virtual simulator** for our **Plastic Bottle 
 
 ## 📌 Installation & Setup  
 
+### Option 1: Download the Installer
+   
+   1️⃣ Download **BioVision.exe** from https://upm365-my.sharepoint.com/:u:/g/personal/diego_ramirez_fuente_alumnos_upm_es/EXihCOdFi3pNiRqH9RYjllwBzPeWH4Ldk0F9ekz15ygT0w?e=azKRSt.  
+   2️⃣ Run the installer, and you’re ready to start!  
+   3️⃣ No need to install additional libraries or dependencies.  
+
+### Option 2: Manual Setup
+
 Ensure you have **Python 3.8 or later** installed and added to the system path.  
 
 1️⃣ **Install the required dependencies:**  
